@@ -15,4 +15,4 @@ It is fast paced mutli-player game with a gameplay similar to Tron races. The pl
 ![Texture Mask Shader](./Media/Splash.PNG)
 
 ## Gameplay Video:
-[Gameplay](./Media/Snail Blazer TechDemo.mp4)
+[Gameplay](./Media/SnailBlazerTechDemo.mp4)
